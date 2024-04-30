@@ -373,7 +373,7 @@ button:hover{
         grid-template-columns: repeat(1, 1fr);
     }
     .projects-section {
-        height:calc(100vh + 23.75rem);
+        height:calc(100vh + 34.25rem);
     }
     #project>a {
         height: 13.125rem;

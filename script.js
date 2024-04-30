@@ -115,7 +115,7 @@ load_btn.addEventListener('click', () => {
     }
     @media only screen and (max-width: 431px){
         .projects-section {
-            height: auto;
+            
         }
     }
   `;
